@@ -1,0 +1,76 @@
+{
+  "testUser": {
+    "email": "test@workloop.com",
+    "password": "Test@123456",
+    "fullName": "Test User"
+  },
+  "tasks": [
+    {
+      "title": "Complete project proposal",
+      "description": "Finish the quarterly project proposal",
+      "priority": "high",
+      "category": "Work",
+      "dueDate": "2025-12-31"
+    },
+    {
+      "title": "Buy groceries",
+      "description": "Get vegetables and fruits",
+      "priority": "medium",
+      "category": "Personal",
+      "dueDate": "2025-11-10"
+    },
+    {
+      "title": "Schedule dentist appointment",
+      "description": "Annual checkup",
+      "priority": "low",
+      "category": "Health",
+      "dueDate": "2025-11-20"
+    }
+  ],
+  "transactions": [
+    {
+      "type": "income",
+      "amount": 50000,
+      "category": "Salary",
+      "description": "Monthly salary payment"
+    },
+    {
+      "type": "expense",
+      "amount": 3500,
+      "category": "Food & Dining",
+      "description": "Grocery shopping"
+    },
+    {
+      "type": "expense",
+      "amount": 1200,
+      "category": "Transportation",
+      "description": "Monthly metro card"
+    },
+    {
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "description": "Website design project"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Project Ideas",
+      "content": "Ideas for the next quarter project",
+      "category": "Work",
+      "color": "Yellow"
+    },
+    {
+      "title": "Shopping List",
+      "content": "Items to buy this weekend",
+      "category": "Personal",
+      "color": "Blue"
+    },
+    {
+      "title": "Meeting Notes",
+      "content": "Key points from today's meeting",
+      "category": "Work",
+      "color": "Green"
+    }
+  ]
+}
